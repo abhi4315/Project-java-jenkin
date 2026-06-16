@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Added One More File");
         System.out.println("Added Second File");
 
+        Student stud = new Student();
+        stud.SayHello();
     }
 }
