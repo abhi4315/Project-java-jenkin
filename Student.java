@@ -6,4 +6,8 @@ public class Student {
         public void SayHello(){
             System.out.println("Hey I am Student");
         }
+        public void SayHello1(){
+            System.out.println("Hey I am Student");
+        }
+
 }
